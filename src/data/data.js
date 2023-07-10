@@ -9,7 +9,7 @@ const people = [
         image:'https://images.generated.photos/dVrq4AXS8SmlQ_HTyxG4bJRmi4IulUA4omUbvvSyQMU/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDkwODEzLmpwZw.jpg',
         name: 'John Doe',
         designation: 'CTO, Doe Corporation',
-        location: '1214 Bashaboo, Dahka, Bangladesh'
+        location: '1214 Bashaboo, Dhaka, Bangladesh'
     },
     {
         image:'https://images.generated.photos/XkTVulI9UnbMVl1veOfrra6bS2v0QIqLbSIQrgXni14/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTYxODM1LmpwZw.jpg',
